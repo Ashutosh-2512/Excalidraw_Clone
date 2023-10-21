@@ -10,6 +10,11 @@ header {
   left: 50px;
 }
 
+#navbarSupportedContent {
+  position: relative;
+  top: 80px;
+  left: 0px;
+}
 
 #top-center {
   position: fixed;
@@ -124,6 +129,7 @@ footer {
 }
 .my-hor-line {
   border: 1px outset rgba(193, 134, 248, 0.299);
+  /* border-style: outset;  */
 }
 .font-red {
   color: #ee5098;
